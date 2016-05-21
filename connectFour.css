@@ -1,0 +1,35 @@
+.colButts {
+	height : 20px;
+	width : 40px 
+}
+
+#newGameButton {
+	background-color: white; 
+    color: black; 
+    border: 2px solid #BA5E00;
+}
+
+.columnButton {
+	width: 100%;
+	background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.tiles {
+	height : 40px;
+	width : 40px
+}
+
+.turned-player1 {
+	background-color: #800000
+}
+
+.turned-player2 {
+	background-color: #234802	
+}
+
+.unturned {
+	background-color: #ffffff;
+}
+
